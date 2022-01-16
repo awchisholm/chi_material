@@ -73,3 +73,4 @@ websocket-client==1.2.3
 websockets==10.1
 widgetsnbextension==3.5.2
 zipp==3.7.0
+ipywidgets
