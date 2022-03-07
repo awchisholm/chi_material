@@ -20,6 +20,7 @@ This document shows graphs of the following relationships.
 1. Single distribution
 1. Multiple distribution
 1. Correlation
+1. Geospatial
 
 The graphs have these basic forms
 
@@ -93,8 +94,47 @@ ggplot(ss, aes(x=name, y=`Difference from mean`)) + geom_bar(stat='identity') + 
 
 ## Single distribution
 
+This shows how a population of data values is distributed across all the data. Avoid box plots for single distributions.
 
+```{r, echo = F, message = F}
+iris_long = iris %>% pivot_longer(cols=c(Sepal.Length, Petal.Length, Sepal.Width, Petal.Width))
+ggplot(iris_long, aes(x=value)) + geom_histogram()
+```
 
-## Multiple distribution
+## Multiple distributions
+
+When there are multiple groups within the data, each has a distribution. Avoid the following because it is hard to read.
+
+```{r, echo = F, message = F}
+iris_long = iris %>% pivot_longer(cols=c(Sepal.Length, Petal.Length, Sepal.Width, Petal.Width))
+ggplot(iris_long, aes(x=value, fill=Species)) + geom_histogram()
+```
+
+Instead try to show different graphs for each group but ensure alignments are done properly.
+
+```{r, echo = F, message = F}
+iris_long = iris %>% pivot_longer(cols=c(Sepal.Length, Petal.Length, Sepal.Width, Petal.Width))
+ggplot(iris_long, aes(x=value, fill=Species)) + geom_histogram() + facet_grid(Species ~ .)
+```
 
 ## Correlation
+
+Correlation is used to illustrate how 2 variables depend on one another. Correlation coefficients need to be calculated to show how good the correlation is.
+
+```{r, echo = F}
+plot(longley$Population, longley$GNP)
+```
+
+## Geospatial
+
+Showing maps is often very powerful as it can draw out features that are not obvious. Try to avoid bars and boxes. Strive to show data points in different colours and size as well as colouring in geographical regions.
+
+```{r, echo = F, message = F}
+library(mapview)
+library(sf)
+
+franconia %>%
+    mutate(count = lengths(st_contains(., breweries)),
+           density = count / st_area(.)) %>%
+    mapview(zcol = "density") + mapview(breweries)
+```
