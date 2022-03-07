@@ -1,0 +1,100 @@
+---
+title: "Chart types"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Overview
+
+This document shows graphs of the following relationships.
+
+1. Nominal comparison
+1. Time series
+1. Ranking
+1. Part-to-whole
+1. Deviation
+1. Single distribution
+1. Multiple distribution
+1. Correlation
+
+The graphs have these basic forms
+
+1. Points
+1. Lines
+1. Bars
+1. Boxes
+
+Some graphs are suitable to show relationships, some are not. The notes below give details.
+
+## Nominal comparison
+
+Comparing nominals which have a numerical value associated with them. Bars and points work best. Avoid lines and boxes.
+
+```{r, echo = F}
+data <- iris %>% group_by(Species) %>% summarize(AveragePetalWidth=mean(Petal.Width))
+gg = ggplot(data=data, mapping=aes(x=Species, y=AveragePetalWidth))
+ggbar = geom_bar(stat='identity')
+gg + ggbar
+```
+
+## Time series
+
+Data that varies by time. Most graph types work for this sort of data. The key thing is to show how something varies by time. 
+
+```{r, echo = F}
+library(stats)
+plot(nhtemp)
+```
+
+## Ranking
+
+Comparisons between nominals but where the ordering is important. Bars are usually best. Ensure the ordering matches the rank.
+
+```{r, echo = F}
+summary = 
+  mpg %>% 
+  group_by(class) %>% 
+  summarize(mpg=mean(hwy)) %>%
+  arrange(mpg)
+
+summary$class = factor(summary$class, levels=summary$class)
+
+ggplot(summary, aes(x=class, y=mpg)) + geom_bar(stat='identity')
+```
+
+## Part-to-whole
+
+These graphs relate parts of something to the whole. Avoid points and boxes.
+
+```{r, echo = F, message=F}
+library(xts)
+dd = as.xts(UKgas)
+df = data.frame(date=index(dd), value=coredata(dd))
+lastyear = df %>% tail(4)
+all = sum(lastyear$value)
+summary = lastyear %>% dplyr::mutate(percent = round(100*value/all, 1))
+ggplot(data = summary, aes(x=date, y=percent)) + geom_bar(stat='identity')
+```
+
+## Deviation
+
+A deviation graph shows how values differ from a primary set of values. Lines and bars work well. Avoid boxes.
+
+```{r, echo = F}
+ss = starwars %>% na.omit()
+meanweight = mean(ss$mass)
+ss = ss %>% mutate(`Difference from mean` = mass - meanweight)
+ggplot(ss, aes(x=name, y=`Difference from mean`)) + geom_bar(stat='identity') + coord_flip()
+```
+
+## Single distribution
+
+
+
+## Multiple distribution
+
+## Correlation
