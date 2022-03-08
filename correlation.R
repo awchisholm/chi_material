@@ -1,0 +1,7 @@
+x = c(1,2,3,4,5)
+y = c(1,2,4,3,7)
+ll = lm(y~x)
+intercept = as.numeric(ll$coefficients[1])
+slope = as.numeric(ll$coefficients[2])
+residuals = resid(ll)
+fitted = fitted(ll)
