@@ -1,0 +1,151 @@
+% See http://tex.stackexchange.com/questions/102662/harvard-reference-using-biblatex
+% for further discussion
+\documentclass[a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{csquotes}% Recommended
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+    citecolor=red
+    }
+
+\usepackage[style=authoryear-ibid,backend=biber,sorting=anyt]{biblatex}
+\AtEveryBibitem{%
+  \clearfield{note}%
+}
+
+
+\addbibresource{Chichester.bib}
+
+% If you want to break on URL numbers
+\setcounter{biburlnumpenalty}{9000}
+% If you want to break on URL lower case letters
+\setcounter{biburllcpenalty}{9000}
+% If you want to break on URL UPPER CASE letters
+\setcounter{biburlucpenalty}{9000}
+
+% this sets indent to 0 globally
+\setlength{\parindent}{0pt}
+
+\title{A list of items in my Zotero library relevant to BML242 and DAP604}
+\author{Andrew Chisholm. a.chisholm@chi.ac.uk}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Overview}
+
+This is a full list of the items in my Zotero library. As time permits, I add a short description for each entry.
+\\
+
+The links aren't guaranteed to work since they will refer to files in my environment.
+\\
+
+In general, if an item is in this list, I will have access to a copy of the source material. Where I refer to an item in a lecture, it should be in this list. If not, let me know. Harvard referencing is used but is not perfect so there may be errors. Again, let me know if there's anything wrong. 
+\\
+
+A bibliography database file is available on request.
+\\
+
+I used \href{http://www.overleaf.com}{Overleaf} to create this document. 
+
+\section*{Details}
+
+\begin{enumerate}
+
+\item The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? \parencite{anaElementKenRobinson}.
+\item ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics \parencite{ASAStatementRole2015}.
+\item ATV, Drone, Elbil, Elsykkel, Rc Helikopter, ATV, Robot, Elatv. A weird website that breaks the rules of good design \parencite{ATVDroneElbil2022}.
+\item Average Salary UK - a Comprehensive Overview.  \parencite{AverageSalaryUK2021}.
+\item 4 Types of Data Analytics to Improve Decision-Making. Types of data analytics including prescriptive analytics. \parencite{bekkerTypesDataAnalytics2019}.
+\item One Small Step for the Web.... Solid - a way of putting users at the centre of their data. It may be too complex a concept for most users to manage. \parencite{berners-leeOneSmallStep2018}.
+\item Towards Robust Distributed Systems. The CAP theorem introduced. \parencite{brewerRobustDistributedSystems2000}.
+\item The Data Science Handbook. Nice overview of the data science process by showing a roadmap (p9). Could be used to structure reports logically. \parencite{cadyDataScienceHandbook2017}.
+\item Card1999.Lowfi\_.Pdf. Visualisation amplifies cognition \parencite{cardCard1999LowfiPdf1999}.
+\item CaseStudy : A Leading Online Travel Agency Increases Revenues by 16 Percent with Actionable Analytics. Use of data in the travel industry \parencite{CaseStudyLeadingOnline2015}.
+\item Choosing-a-Good-Chart-09-1.Pdf. A single graphical summary that might be useful as a starting point. \parencite{Choosingagoodchart091Pdf}.
+\item Choosing the Correct Statistical Test in SAS, Stata, SPSS and R. Detailed guidance on which statistical test to use with R code to help. \parencite{ChoosingCorrectStatistical}.
+\item Graphical Perception and Graphical Methods for Analyzing Scientific Data. Early investigation into basic principles of human graphical perception \parencite{clevelandGraphicalPerceptionGraphical1985}.
+\item Cluster Analysis. Definition of clustering \parencite{ClusterAnalysis2022}.
+\item The Data Science Handbook | Wiley. Overview of data science with 3 physical copies in the library \parencite{DataScienceHandbook2017}.
+\item Data\_Scientist\_vs\_Data\_Engineer. A graph showing the relative interest between data scientist and data engineer \parencite{DataScientistVs}.
+\item DataShine: Census. Geographical view of various data in the UK. Resolves down to a very detailed view. \parencite{DataShineCensus2022}.
+\item Data Storytelling: How to Tell a Story with Data. Overview of how to tell a story with data. \parencite{DataStorytellingHow2021}.
+\item Data Visualization: Basic Principles. Basic principles - an easy overview. \parencite{DataVisualizationBasic2016}.
+\item Research Challenges and Opportunities in Business Analytics. A historical view to the evolution of analytics terminology. \parencite{delenResearchChallengesOpportunities2018}.
+\item Margaret Calvert: It's about Knowing Who You Are Designing For. YouTube video about Margaret Calvert and the importance of knowing who you are designing for. \parencite{designindabaMargaretCalvertIt2013}.
+\item Data Types in Statistics.. Accessible view of data types. \parencite{dongesDataTypesStatistics2018}.
+\item Everything Should Be Made as Simple as Possible, But Not Simpler – Quote Investigator.  \parencite{EverythingShouldBe}.
+\item Selecting the Right Graph for Your Message. A brief article that summarises which graph to choose based on the data you have \parencite{fewSelectingRightGraph2004}.
+\item Show Me the Numbers. An important book that gives general guidance about which graph to choose. Available as a physical book in the library \parencite{fewShowMeNumbers2012}.
+\item The Visual Perception of Variation in Data Displays. An important book about visualisation in general. Available in the library as a physical book \parencite{fewVisualPerceptionVariation2016}.
+\item Fish Identification Through Deep Learning AI Models | Nisqually - Microsoft Case Study. A case study about using AI to identify fish more efficiently \parencite{FishIdentificationDeep2021}.
+\item Gestalt Principles for Data Visualization: Similarity, Proximity \& Enclosure. Similarity, Proximity \& Enclosure \parencite{GestaltPrinciplesData2022}.
+\item Growth Marketing Mint.Com From Zero To 1 Million Users.  \parencite{GrowthMarketingMint2017}.
+\item Data Types in Statistics. Data types in a single picture plus some supporting text. \parencite{guyDataTypesStatistics2019}.
+\item Six Practices Critical to Creating Value from Data and Analytics [INFOGRAPHIC] |. Strategies adopted by business leaders to create value from data. \parencite{hayesSixPracticesCritical2013}.
+\item Statistics Explained. Physical copy available in the library as well as online. Covers statistics in a relatively friendly way. \parencite{hinton2014statistics}.
+\item How to Choose the Right Chart for Your Data. Starting point for choosing the right chart \parencite{HowChooseRight2022}.
+\item How We Scaled Data Science to All Sides of Airbnb over 5 Years of Hypergrowth. Use of AI at AirBnB \parencite{HowWeScaled2015}.
+\item How Much Does Big Data Cost? | LinkedIn. Make sure value is more than cost. \parencite{huygheHowMuchDoes2016}.
+\item The Importance of Data Visualization. Human brains process visuals 60000 times faster than text. \parencite{ImportanceDataVisualization2022}.
+\item Ten Guidelines for Effective Data Visualization in Scientific Publications. Ten guidelines for effective visualisations \parencite{kelleherTenGuidelinesEffective2011}.
+\item Engaging with (Big) Data Visualizations: Factors That Affect Engagement and Resulting New Definitions of Effectiveness. An investigation into the factors that make effective visualisations \parencite{kennedyEngagingBigData2016}.
+\item The Work That Visualisation Conventions Do.  \parencite{kennedyWorkThatVisualisation2016}.
+\item Data Visualization: A Successful Design Process.  \parencite{kirkDataVisualizationSuccessful2012}.
+\item emphK-Means Clustering. Animated view of k-means \parencite{KmeansClustering2022}.
+\item Storytelling with Data: A Data Visualization Guide for Business Professionals. A practical book giving advice about data visualization. This book is available in the library. \parencite{knaflic2015storytelling}.
+\item A Survey on Machine Learning-based Performance Improvement of Wireless Networks: PHY, MAC and Network Layer. Taxonomy showing artificial intelligence, machine learning and deep learning in context. \parencite{kulinSurveyMachineLearningbased2020}.
+\item London Icon: A History of Harry Beck’s Iconic Tube Map. Interesting history: it nearly didn’t happen. \parencite{LondonIconHistory2017}.
+\item Machine Learning. Wikipedia introduction to machine learning. \parencite{MachineLearning2022}.
+\item Big Data and the Next Wave of InfraStress Problems, Solutions, Opportunities. An early mention of the phrase “Big Data” \parencite{masheyBigDataNext1999}.
+\item Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing. The vital importance of visualising data to make sure you can see the real differences between data that looks the same from a descriptive statistics point of view (see Anscome’s quartet) \parencite{matejkaSameStatsDifferent2017}.
+\item Principles of Effective Data Visualization.  \parencite{midwayPrinciplesEffectiveData2020}.
+\item Interactive Mapping for Large, Open Demographic Data Sets Using Familiar Geographical Features. UK 2011 Census data \parencite{obrienInteractiveMappingLarge2016}.
+\item Data Science for Dummies. Contains a definition of data science (p8). This book is available in the library. \parencite{pierson2021data}.
+\item Prescriptive versus Predictive Analytics – A Distinction without a Difference? « Machine Learning Times. Prescriptive analytics does not seem to differ from predictive analytics \parencite{PrescriptivePredictiveAnalytics2014}.
+\item Primary Data \& Secondary Data: Definition \& Example.  \parencite{PrimaryDataSecondary}.
+\item Bad Data Costs the U.S. \$3 Trillion Per Year. A large number that should motivate anyone to address the problem and make data cleaner at source. \parencite{redmanBadDataCosts2016}.
+\item A Survey of Information Visualization Books. A big survey about data visualisation books useful as a starting point. \parencite{reesSurveyInformationVisualization2019}.
+\item The Legacy of Gestalt Psychology. The legacy of Gestalt Psychology \parencite{rockLegacyGestaltPsychology1990}.
+\item The Role of Technology in CRM. How things have evolved. \parencite{RoleTechnologyCRM}.
+\item Visual Variables.  \parencite{rothVisualVariables2017}.
+\item Sampling (Statistics). Definition of different types of sampling. \parencite{SamplingStatistics2022}.
+\item The 42 V's of Big Data and Data Science. I marketeer’s dream; someone has found a way to use words beginning with V and match them to some seemingly vital (!) aspect of Big Data. \parencite{says42BigData}.
+\item 6 of My Favorite Case Studies in Data Science.  \parencite{smithMyFavoriteCase2018}.
+\item Spotify’s “This Is” Playlists: The Ultimate Song Analysis for 50 Mainstream Artists. Spotify uses AI \parencite{SpotifyThisPlaylists2018}.
+\item Statistics. Good starting point for a description of statistics \parencite{Statistics2022}.
+\item 8 Steps in the Data Life Cycle | HBS Online. A data life cycle process diagram. Could be used to structure reports. \parencite{StepsDataLife2021}.
+\item On the Theory of Scales of Measurement. Data types categorized \parencite{stevensTheoryScalesMeasurement1946}.
+\item What Statistical Test Should I Use?. A graphic showing what statistical test to use for the data you have. \parencite{teamWhatStatisticalTest2021}.
+\item Tidy Data. An overview of the concept of tidy data, the aiming point to start analysis. Real world data is rarely tidy so effort is required to transform it. \parencite{TidyData}.
+\item Exploratory Data Analysis. The seminal work on EDA available in the library. \parencite{tukey1977exploratory}.
+\item Types of Data Measurement Scales: Nominal, Ordinal, Interval, and Ratio.  \parencite{TypesDataMeasurement2012}.
+\item Types of Sampling: Sampling Methods with Examples. Graphic showing different sampling techniques. \parencite{TypesSamplingSampling2018}.
+\item Personal \& Business Car Leasing | LINGsCARS. A hilarious web site that shouldn't work but does \parencite{valentinePersonalBusinessCar2022}.
+\item Visual Variable.  \parencite{VisualVariable2022}.
+\item Information Visualization - 3rd Edition.  \parencite{wareInformationVisualization3rd2013}.
+\item Information Visualization: Perception for Design.  \parencite{wareInformationVisualizationPerception2004}.
+\item Visual Thinking for Information Design.  \parencite{wareVisualThinkingInformation2021}.
+\item What Is Data Science? The Ultimate Guide. An overview of the data science process and application areas where it is used. \parencite{WhatDataScience}.
+\item What Is Prescriptive Analytics? 6 Examples | HBS Online. Some concrete examples of what prescriptive analytics is. \parencite{WhatPrescriptiveAnalytics2021}.
+\item What Would The Tube Map Would Look Like If It Were Laid out Geographically?. Precise layout might detract from the core message \parencite{WhatWouldTube2011}.
+\item Why A Picture Is Not Worth A Thousand Words.  \parencite{WhyPictureNot2016}.
+\item Why a Picture Is Worth a Thousand Words.  \parencite{WhyPictureWorth2011}.
+\item Why Visual Analytics?.  \parencite{WhyVisualAnalytics}.
+\item What Attributes Guide the Deployment of Visual Attention and How Do They Do It?. How to attract attention with visualisations. \parencite{wolfeWhatAttributesGuide2004}.
+\item (READ-PDF!) Now You See It Simple Visualization Techniques for Quantitative Analysis ZIP.  \parencite{yumpu.comREADPDFNowYou}.
+
+
+\end{enumerate}
+
+\printbibliography
+
+\end{document}
