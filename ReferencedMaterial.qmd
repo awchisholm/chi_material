@@ -1,0 +1,30 @@
+---
+title: "ReferencedMaterial"
+format: pdf
+editor: visual
+bibliography: Chichester.bib
+---
+
+# Referenced Material
+
+## Overview
+
+This is a full list of the items in my Zotero library. As time permits, I add a short description for each entry.
+
+
+The links aren't guaranteed to work since they will refer to files in my environment.
+
+
+In general, if an item is in this list, I will have access to a copy of the source material. Where I refer to an item in a lecture, it should be in this list. If not, let me know. Harvard referencing is used but is not perfect so there may be errors. Again, let me know if there's anything wrong.
+
+
+A bibliography database file is available on request.
+
+
+I used \href{http://www.overleaf.com}{Overleaf} to create this document.
+
+## Details
+
+* The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? [@anaElementKenRobinson].
+
+* ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics [@ASAStatementRole2015].
