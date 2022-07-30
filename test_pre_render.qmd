@@ -1,0 +1,25 @@
+---
+title: "test_pre_render"
+format: pdf
+editor: source
+pre-render: test.R
+---
+<!-- For the pre-render script -->
+<!-- create a file called test.R -->
+<!-- and include the following line in it -->
+<!-- writeLines(date(), 'test.qmd') -->
+<!-- You'll need to run this script once to create -->
+<!-- the first version of test.qmd to avoid a file -->
+<!-- not found error. -->
+
+## Section
+
+This is the date from the current run.
+```{r}
+#| echo: false
+print(date())
+```
+
+The next date corresponds to when the test.R script last ran. It should be close to the date of the current run.
+\newline
+{{< include test.qmd >}}
