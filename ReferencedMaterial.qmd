@@ -1,11 +1,20 @@
 ---
 title: "Referenced Material"
-pre-render: process_bib.R
+project: 
+  pre-render: "Rscript -e 'process_bib.R'"
+execute:
+  freeze: false
+  cache: false
 format: pdf
 keep-tex: false
 editor: visual
 bibliography: Chichester.bib
 ---
+
+```{r}
+#| echo: false
+suppressWarnings(suppressMessages(source('process_bib.R')))
+```
 
 # Referenced Material
 

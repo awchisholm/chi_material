@@ -4,7 +4,7 @@
 - Average Salary UK - a Comprehensive Overview.  [@AverageSalaryUK2021].
 - 4 Types of Data Analytics to Improve Decision-Making. Types of data analytics including prescriptive analytics. [@bekkerTypesDataAnalytics2019].
 - One Small Step for the Web.... Solid - a way of putting users at the centre of their data. It may be too complex a concept for most users to manage. [@berners-leeOneSmallStep2018].
-- Cambridge Analytica: Ethics And Online Manipulation With Decision-Making Process. Exploration of the ethics surrounding Cambridge Analytica [@boldyreva*CambridgeAnalyticaEthics2019].
+- Cambridge Analytica: Ethics And Online Manipulation With Decision-Making Process. Exploration of the ethics surrounding Cambridge Analytica [@boldyrevaCambridgeAnalyticaEthics2019].
 - Towards Robust Distributed Systems. The CAP theorem introduced. [@brewerRobustDistributedSystems2000].
 - The Data Science Handbook. Nice overview of the data science process by showing a roadmap (p9). Could be used to structure reports logically. [@cadyDataScienceHandbook2017].
 - Card1999.Lowfi\_.Pdf. Visualisation amplifies cognition [@cardCard1999LowfiPdf1999].
@@ -48,14 +48,14 @@
 - SUN Cube: A New Stakeholder Management System for the Post-Merger Integration Process. Example use of Mendelow’s Matrix showing power versus interest. Also contains more recent modifications to this by other researchers. [@martirosyanSUNCubeNew2014].
 - Big Data and the Next Wave of InfraStress Problems, Solutions, Opportunities. An early mention of the phrase “Big Data” [@masheyBigDataNext1999].
 - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing. The vital importance of visualising data to make sure you can see the real differences between data that looks the same from a descriptive statistics point of view (see Anscome’s quartet) [@matejkaSameStatsDifferent2017].
-- (1991)‘Stakeholder Mapping', Proceedings of the 2nd International Conference on Information Systems, Cambridge, MA (Cited in Scholes, 1998). The original reference for the Mendelow Matrix [@mendelow1991].
+- Stakeholder Mapping, Proceedings of the 2nd International Conference on Information Systems, Cambridge, MA (Cited in Scholes, 1998). The original reference for the Mendelow Matrix [@mendelow1991].
 - Mendelow's Matrix - Marketing Theories. Mendelow’s Matrix with case studies. Note the graphic differs from others - the high to low of the power axis is reversed. [@MendelowMatrixMarketing2022].
 - Setting Corporate Goals and Measuring Organizational Effectiveness—A Practical Approach. Identifies stakeholders and uses this to explore how these can be integrated into the strategic planning process. [@mendelowSettingCorporateGoals1983].
 - Principles of Effective Data Visualization.  [@midwayPrinciplesEffectiveData2020].
 - Interactive Mapping for Large, Open Demographic Data Sets Using Familiar Geographical Features. UK 2011 Census data. See datashine.org.uk for an impressive online interactive map. [@obrienInteractiveMappingLarge2016].
 - Data Science for Dummies. Contains a definition of data science (p8). This book is available in the library. [@pierson2021data].
 - Prescriptive versus Predictive Analytics – A Distinction without a Difference? « Machine Learning Times. Prescriptive analytics does not seem to differ from predictive analytics [@PrescriptivePredictiveAnalytics2014].
-- Primary Data \& Secondary Data: Definition \& Example.  [@PrimaryDataSecondary].
+- Primary Data \& Secondary Data: Definition \& Example.  [@PrimaryDataSecondarya].
 - Mendelow's Matrix (Stakeholder Analysis) Explained!. Youtube video (2 mins) explaining how to use Mendelow’s Matrix [@professionalacademyMendelowMatrixStakeholder2021].
 - Bad Data Costs the U.S. \$3 Trillion Per Year. A large number that should motivate anyone to address the problem and make data cleaner at source. [@redmanBadDataCosts2016].
 - A Survey of Information Visualization Books. A big survey about data visualisation books useful as a starting point. [@reesSurveyInformationVisualization2019].
@@ -80,7 +80,7 @@
 - Visual Variable.  [@VisualVariable2022].
 - Information Visualization - 3rd Edition.  [@wareInformationVisualization3rd2013].
 - Information Visualization: Perception for Design.  [@wareInformationVisualizationPerception2004].
-- Visual Thinking for Information Design.  [@wareVisualThinkingInformation2021].
+- Visual Thinking for Information Design.  [@wareVisualThinkingInformation2021a].
 - What Is Data Science? The Ultimate Guide. An overview of the data science process and application areas where it is used. [@WhatDataScience].
 - What Is Prescriptive Analytics? 6 Examples | HBS Online. Some concrete examples of what prescriptive analytics is. [@WhatPrescriptiveAnalytics2021].
 - What Would The Tube Map Would Look Like If It Were Laid out Geographically?. Precise layout might detract from the core message [@WhatWouldTube2011].
