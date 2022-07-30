@@ -1,7 +1,7 @@
 ---
 title: "Referenced Material"
 project: 
-  pre-render: "Rscript -e 'process_bib.R'"
+  pre-render: "Rscript process_bib.R"
 execute:
   freeze: false
   cache: false
