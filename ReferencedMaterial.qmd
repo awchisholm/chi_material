@@ -20,7 +20,7 @@ suppressWarnings(suppressMessages(source('process_bib.R')))
 
 ## Overview
 
-This is a full list of the items in my Zotero library. As time permits, I add a short description for each entry.
+This is a full list of the items in my Zotero library [@ZoteroYourPersonal2022]. As time permits, I add a short description for each entry.
 
 The links aren't guaranteed to work since they will refer to files in my environment.
 

@@ -91,3 +91,4 @@
 - Why Visual Analytics?.  [@WhyVisualAnalytics2022].
 - Tidy Data.  [@wickhamTidyData2014].
 - What Attributes Guide the Deployment of Visual Attention and How Do They Do It?. How to attract attention with visualisations. [@wolfeWhatAttributesGuide2004].
+- Zotero | Your Personal Research Assistant.  [@ZoteroYourPersonal2022].
