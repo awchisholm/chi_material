@@ -28,7 +28,7 @@ In general, if an item is in this list, I will have access to a copy of the sour
 
 A bibliography database file is available on request.
 
-I used \href{http://www.overleaf.com}{Overleaf} to create this document.
+I used \href{http://www.overleaf.com}{Overleaf} [@OverleafOnlineLaTeX2022] to create this document initially. I then migrated to \href{https://quarto.org/}{Quarto} [@Quarto2021].
 
 ## Details
 

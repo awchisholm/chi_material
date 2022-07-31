@@ -1,4 +1,4 @@
-- The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? [@anaElementKenRobinson].
+- The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? [@anaElementKenRobinson2021].
 - ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics [@ASAStatementRole2015].
 - ATV, Drone, Elbil, Elsykkel, Rc Helikopter, ATV, Robot, Elatv. A weird website that breaks the rules of good design [@ATVDroneElbil2022].
 - Average Salary UK - a Comprehensive Overview.  [@AverageSalaryUK2021].
@@ -9,19 +9,20 @@
 - The Data Science Handbook. Nice overview of the data science process by showing a roadmap (p9). Could be used to structure reports logically. [@cadyDataScienceHandbook2017].
 - Card1999.Lowfi\_.Pdf. Visualisation amplifies cognition [@cardCard1999LowfiPdf1999].
 - CaseStudy : A Leading Online Travel Agency Increases Revenues by 16 Percent with Actionable Analytics. Use of data in the travel industry [@CaseStudyLeadingOnline2015].
-- Choosing-a-Good-Chart-09-1.Pdf. A single graphical summary that might be useful as a starting point. [@Choosingagoodchart091Pdf].
-- Choosing the Correct Statistical Test in SAS, Stata, SPSS and R. Detailed guidance on which statistical test to use with R code to help. [@ChoosingCorrectStatistical].
+- Choosing-a-Good-Chart-09-1.Pdf. A single graphical summary that might be useful as a starting point. [@Choosingagoodchart091Pdf2009].
+- Choosing the Correct Statistical Test in SAS, Stata, SPSS and R. Detailed guidance on which statistical test to use with R code to help. [@ChoosingCorrectStatistical2021].
 - Graphical Perception and Graphical Methods for Analyzing Scientific Data. Early investigation into basic principles of human graphical perception [@clevelandGraphicalPerceptionGraphical1985].
 - Cluster Analysis. Definition of clustering [@ClusterAnalysis2022].
 - The Data Science Handbook | Wiley. Overview of data science with 3 physical copies in the library [@DataScienceHandbook2017].
-- Data\_Scientist\_vs\_Data\_Engineer. A graph showing the relative interest between data scientist and data engineer [@DataScientistVs].
+- Data\_Scientist\_vs\_Data\_Engineer. A graph showing the relative interest between data scientist and data engineer [@DataScientistVs2022].
 - DataShine: Census. Geographical view of various data in the UK. Resolves down to a very detailed view. [@DataShineCensus2022].
 - Data Storytelling: How to Tell a Story with Data. Overview of how to tell a story with data. [@DataStorytellingHow2021].
 - Data Visualization: Basic Principles. Basic principles - an easy overview. [@DataVisualizationBasic2016].
 - Research Challenges and Opportunities in Business Analytics. A historical view to the evolution of analytics terminology. [@delenResearchChallengesOpportunities2018].
 - Margaret Calvert: It's about Knowing Who You Are Designing For. YouTube video about Margaret Calvert and the importance of knowing who you are designing for. [@designindabaMargaretCalvertIt2013].
 - Data Types in Statistics.. Accessible view of data types. [@dongesDataTypesStatistics2018].
-- Everything Should Be Made as Simple as Possible, But Not Simpler – Quote Investigator.  [@EverythingShouldBe].
+- Everything Should Be Made as Simple as Possible, But Not Simpler – Quote Investigator.  [@EverythingShouldBe2011].
+- (READ-PDF!) Now You See It Simple Visualization Techniques for Quantitative Analysis ZIP. Downloadable copy of Now You See It by Few. A paper copy exists in the library [@fewREADPDFNowYou2014].
 - Selecting the Right Graph for Your Message. A brief article that summarises which graph to choose based on the data you have [@fewSelectingRightGraph2004].
 - Show Me the Numbers. An important book that gives general guidance about which graph to choose. Available as a physical book in the library [@fewShowMeNumbers2012].
 - The Visual Perception of Variation in Data Displays. An important book about visualisation in general. Available in the library as a physical book [@fewVisualPerceptionVariation2016].
@@ -53,25 +54,26 @@
 - Setting Corporate Goals and Measuring Organizational Effectiveness—A Practical Approach. Identifies stakeholders and uses this to explore how these can be integrated into the strategic planning process. [@mendelowSettingCorporateGoals1983].
 - Principles of Effective Data Visualization.  [@midwayPrinciplesEffectiveData2020].
 - Interactive Mapping for Large, Open Demographic Data Sets Using Familiar Geographical Features. UK 2011 Census data. See datashine.org.uk for an impressive online interactive map. [@obrienInteractiveMappingLarge2016].
+- Overleaf, Online LaTeX Editor.  [@OverleafOnlineLaTeX2022].
 - Data Science for Dummies. Contains a definition of data science (p8). This book is available in the library. [@pierson2021data].
 - Prescriptive versus Predictive Analytics – A Distinction without a Difference? « Machine Learning Times. Prescriptive analytics does not seem to differ from predictive analytics [@PrescriptivePredictiveAnalytics2014].
-- Primary Data \& Secondary Data: Definition \& Example.  [@PrimaryDataSecondarya].
+- Primary Data \& Secondary Data: Definition \& Example.  [@PrimaryDataSecondary2022].
 - Mendelow's Matrix (Stakeholder Analysis) Explained!. Youtube video (2 mins) explaining how to use Mendelow’s Matrix [@professionalacademyMendelowMatrixStakeholder2021].
+- Quarto. Allows creation of academic quality documents using Markdown with R or Python code. This means code can be run to create a dynamic document. [@Quarto2021].
 - Bad Data Costs the U.S. \$3 Trillion Per Year. A large number that should motivate anyone to address the problem and make data cleaner at source. [@redmanBadDataCosts2016].
 - A Survey of Information Visualization Books. A big survey about data visualisation books useful as a starting point. [@reesSurveyInformationVisualization2019].
 - The Legacy of Gestalt Psychology. The legacy of Gestalt Psychology [@rockLegacyGestaltPsychology1990].
-- The Role of Technology in CRM. How things have evolved. [@RoleTechnologyCRM].
+- The Role of Technology in CRM. How things have evolved. [@RoleTechnologyCRM2019].
 - Visual Variables.  [@rothVisualVariables2017].
 - Sampling (Statistics). Definition of different types of sampling. [@SamplingStatistics2022].
-- Introduction to Data Science. Section 2.1 has a graphic showing the data science process which loosely follows these steps: Ask, Get, Explore, Model, Communicate. [@sarafianIntroductionDataScience].
-- The 42 V's of Big Data and Data Science. I marketeer’s dream; someone has found a way to use words beginning with V and match them to some seemingly vital (!) aspect of Big Data. [@says42BigData].
+- Introduction to Data Science. Section 2.1 has a graphic showing the data science process which loosely follows these steps: Ask, Get, Explore, Model, Communicate. [@sarafianIntroductionDataScience2020].
+- The 42 V's of Big Data and Data Science. I marketeer’s dream; someone has found a way to use words beginning with V and match them to some seemingly vital (!) aspect of Big Data. [@says42BigData2017].
 - 6 of My Favorite Case Studies in Data Science.  [@smithMyFavoriteCase2018].
 - Spotify’s “This Is” Playlists: The Ultimate Song Analysis for 50 Mainstream Artists. Spotify uses AI [@SpotifyThisPlaylists2018].
 - Statistics. Good starting point for a description of statistics [@Statistics2022].
 - 8 Steps in the Data Life Cycle | HBS Online. A data life cycle process diagram. Could be used to structure reports. [@StepsDataLife2021].
 - On the Theory of Scales of Measurement. Data types categorized [@stevensTheoryScalesMeasurement1946].
 - What Statistical Test Should I Use?. A graphic showing what statistical test to use for the data you have. [@teamWhatStatisticalTest2021].
-- Tidy Data. An overview of the concept of tidy data, the aiming point to start analysis. Real world data is rarely tidy so effort is required to transform it. [@TidyData].
 - Create a Stakeholder Analysis with the Mendelow Matrix | Free Template. Mendelow’s Matrix with a downloadable template. [@travellingCreateStakeholderAnalysis2021].
 - Exploratory Data Analysis. The seminal work on EDA available in the library. [@tukey1977exploratory].
 - Types of Data Measurement Scales: Nominal, Ordinal, Interval, and Ratio.  [@TypesDataMeasurement2012].
@@ -81,11 +83,11 @@
 - Information Visualization - 3rd Edition.  [@wareInformationVisualization3rd2013].
 - Information Visualization: Perception for Design.  [@wareInformationVisualizationPerception2004].
 - Visual Thinking for Information Design.  [@wareVisualThinkingInformation2021a].
-- What Is Data Science? The Ultimate Guide. An overview of the data science process and application areas where it is used. [@WhatDataScience].
+- What Is Data Science? The Ultimate Guide. An overview of the data science process and application areas where it is used. [@WhatDataScience2022].
 - What Is Prescriptive Analytics? 6 Examples | HBS Online. Some concrete examples of what prescriptive analytics is. [@WhatPrescriptiveAnalytics2021].
 - What Would The Tube Map Would Look Like If It Were Laid out Geographically?. Precise layout might detract from the core message [@WhatWouldTube2011].
 - Why A Picture Is Not Worth A Thousand Words.  [@WhyPictureNot2016].
 - Why a Picture Is Worth a Thousand Words.  [@WhyPictureWorth2011].
-- Why Visual Analytics?.  [@WhyVisualAnalytics].
+- Why Visual Analytics?.  [@WhyVisualAnalytics2022].
+- Tidy Data.  [@wickhamTidyData2014].
 - What Attributes Guide the Deployment of Visual Attention and How Do They Do It?. How to attract attention with visualisations. [@wolfeWhatAttributesGuide2004].
-- (READ-PDF!) Now You See It Simple Visualization Techniques for Quantitative Analysis ZIP.  [@yumpu.comREADPDFNowYou].
