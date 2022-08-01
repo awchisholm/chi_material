@@ -1,7 +1,5 @@
 ---
 title: "Referenced Material"
-project:
-  pre-render: process_bib.R
 execute:
   freeze: false
   cache: false
@@ -13,7 +11,7 @@ bibliography: Chichester.bib
 
 ```{r}
 #| echo: false
-suppressWarnings(suppressMessages(source('process_bib.R')))
+#suppressWarnings(suppressMessages(source('process_bib.R')))
 ```
 
 # Referenced Material
