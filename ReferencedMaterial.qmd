@@ -9,8 +9,15 @@ editor: visual
 bibliography: Chichester.bib
 ---
 
+<!-- export the bib file from Zotero using Better BibLaTex -->
+<!-- and ensure notes are exported -->
+
 ```{r}
 #| echo: false
+
+# This no longer needed - see the file _quarto.yml
+# which contains a pre-render instruction to run
+# the file process_bib.R
 #suppressWarnings(suppressMessages(source('process_bib.R')))
 ```
 
