@@ -2,6 +2,7 @@
 - ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics [@ASAStatementRole2015].
 - ATV, Drone, Elbil, Elsykkel, Rc Helikopter, ATV, Robot, Elatv. A weird website that breaks the rules of good design [@ATVDroneElbil2022].
 - Average Salary UK - a Comprehensive Overview.  [@AverageSalaryUK2021].
+- Create a Stakeholder Analysis with the Mendelow Matrix | Free Template. Mendelow’s Matrix with a downloadable template. [@barberCreateStakeholderAnalysis2021].
 - 4 Types of Data Analytics to Improve Decision-Making. Types of data analytics including prescriptive analytics. [@bekkerTypesDataAnalytics2019].
 - One Small Step for the Web.... Solid - a way of putting users at the centre of their data. It may be too complex a concept for most users to manage. [@berners-leeOneSmallStep2018].
 - Cambridge Analytica: Ethics And Online Manipulation With Decision-Making Process. Exploration of the ethics surrounding Cambridge Analytica [@boldyrevaCambridgeAnalyticaEthics2019].
@@ -76,7 +77,6 @@
 - 8 Steps in the Data Life Cycle | HBS Online. A data life cycle process diagram. Could be used to structure reports. [@StepsDataLife2021].
 - On the Theory of Scales of Measurement. Data types categorized [@stevensTheoryScalesMeasurement1946].
 - What Statistical Test Should I Use?. A graphic showing what statistical test to use for the data you have. [@teamWhatStatisticalTest2021].
-- Create a Stakeholder Analysis with the Mendelow Matrix | Free Template. Mendelow’s Matrix with a downloadable template. [@travellingCreateStakeholderAnalysis2021].
 - Exploratory Data Analysis. The seminal work on EDA available in the library. [@tukey1977exploratory].
 - Types of Data Measurement Scales: Nominal, Ordinal, Interval, and Ratio.  [@TypesDataMeasurement2012].
 - Types of Sampling: Sampling Methods with Examples. Graphic showing different sampling techniques. [@TypesSamplingSampling2018].
