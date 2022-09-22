@@ -4,7 +4,10 @@ library(dplyr)
 if (file.exists('refs.qmd')) {
   file.remove('refs.qmd')
 }
+#bib_file = params$bibliography_file
+ls()
 bibdf = suppressMessages(bib2df::bib2df('Chichester.bib'))
+#bibdf = suppressMessages(bib2df::bib2df(bib_file))
 
 #\item text from note \parencite{fewShowMeNumbers2012}.
 texdf =

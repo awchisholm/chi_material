@@ -7,6 +7,8 @@ format: pdf
 keep-tex: false
 editor: visual
 bibliography: Chichester.bib
+params:
+  bibliography_file: Chichester.bib
 ---
 
 <!-- export the bib file from Zotero using Better BibLaTex -->
