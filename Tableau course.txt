@@ -1,0 +1,33 @@
+https://campus.datacamp.com/courses/data-visualization-in-tableau/start-to-visualize?ex=2
+
+1. Introduction to data visualization
+Welcome to this course on Data Visualization - one of the most valued skills of modern data analysts. I'm Agata, and together, we will learn how to visualize data in Tableau so that you can convey the information in a clear, insightful, and visually appealing way and create impact with powerful data narratives.
+
+2. What is data visualization?
+Let's begin with defining the data visualization. It stands for graphical representation of information, which facilitates presentation and communication of often complex data to wide audiences who aren't necessarily experts on the subject. It encompasses knowledge and choice of the most effective charts for specific purposes, as well as elements of visual design. Finally, Data Visualization may even be considered a form of visual art, popularized by David McCandless in his blog and books such as Beautiful News or Information is Beautiful.
+
+1 Pictures: The Economist, The Financial Times, David McCandless books.
+3. Why we need data visualization?
+In the era where data creation and collection grow exponentially, visual information is here to stay. This is simply because we, humans, are visual creatures born with eyes prepared for pattern recognition and trend spotting. This skill is essential not only for our survival but also in day-to-day business life. Visual data enhance our understanding and retention of information, especially as its complexity increases. It is essential in any exploratory data analysis and may prove critical in the decision-making process of data-driven organizations.
+
+4. Pitfalls of data visualization
+However, with all its glory, Data Visualization doesn't come without any risks. With the increasing adoption of various analytical tools, such as dashboarding software, spreadsheets, or other types of self-service analytics, more and more users come in contact with data on an everyday basis. As it often happens, the consumers of data have, in general, poor numerical literacy and tend to draw conclusions fast, often without considering the basis behind the data. On the other hand, the detachment between data work and relevant business context can hinder a well-meaning data analyst like no other factor. Lack of experience and ground knowledge often leads to the creation of perhaps beautiful but largely misleading visualizations, so the courses like this one aim at minimizing that risk and spreading good practices.
+
+5. How to succeed in data visualization?
+So, how to succeed in this field? One of the best tips is to keep experimenting but always prioritize useful over beautiful and keep the audience, the data consumers, in mind. Finally, there is plenty of good literature on the market, so challenging oneself and investing in self-study is always a good idea. "Storytelling with data" (see link below the slide) is a great start.
+
+1 Check out https://www.storytellingwithdata.com/ and accompanying book by Cole Nussbaumer Knaflic
+6. Tableau as one of leading data visualization tools
+Can Tableau help us improve our data visualization skills? Let’s have a closer look at Tableau’s strengths. It allows for quick development of visualizations, with a high focus on simplicity, intuitive, and highly interactive outputs. Its plentiful formatting features enable the creation of truly stunning charts which can be presented on small and big screens.
+
+7. A (wide) variety of charts
+In Tableau, we are free to build any chart we like, and in this course, we will cover many of them. You will notice that even complex visualizations can be put together in no time!
+
+8. From basic to advanced data visualization
+We will start, in Chapter 1, by building a wide variety of charts, from basic to intermediate. In Chapter 2, we will zoom in on the best practices in data visualization and proceed, in Chapter 3, to visualization of spatial data, for both geographic and non-geographic use cases. Finally, in Chapter 4, we will add a few more advanced visualizations to our toolbox and finish with notions on dashboards and storytelling.
+
+9. Our dataset
+Finally, let’s meet our first dataset, with which we will deal in the first two chapters. We will analyze and visually present interesting insights from the Internet Movie Database, covering information on films and series, the popularity of TV personalities, genres and various ranking, and rating metrics.
+
+10. Let's practice!
+Let’s get started!
