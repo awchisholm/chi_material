@@ -1,4 +1,4 @@
-- Introduction to Categorical Data Analysis. Go to page 38 for an example of the chi-squared test being used. [@agrestiIntroductionCategoricalData].
+- Introduction to Categorical Data Analysis. Go to page 38 for an example of the chi-squared test being used. [@agrestiIntroductionCategoricalData2007].
 - The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? [@anaElementKenRobinson2021].
 - ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics [@ASAStatementRole2015].
 - ATV, Drone, Elbil, Elsykkel, Rc Helikopter, ATV, Robot, Elatv. A weird website that breaks the rules of good design [@ATVDroneElbil2022].
@@ -55,6 +55,7 @@
 - SUN Cube: A New Stakeholder Management System for the Post-Merger Integration Process. Example use of Mendelow’s Matrix showing power versus interest. Also contains more recent modifications to this by other researchers. [@martirosyanSUNCubeNew2014].
 - Big Data and the Next Wave of InfraStress Problems, Solutions, Opportunities. An early mention of the phrase “Big Data” [@masheyBigDataNext1999].
 - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing. The vital importance of visualising data to make sure you can see the real differences between data that looks the same from a descriptive statistics point of view (see Anscome’s quartet) [@matejkaSameStatsDifferent2017].
+- Mendeley Reference Manager | Mendeley. An alternative to Zotero [@MendeleyReferenceManager2023].
 - Stakeholder Mapping, Proceedings of the 2nd International Conference on Information Systems, Cambridge, MA (Cited in Scholes, 1998). The original reference for the Mendelow Matrix [@mendelow1991].
 - Mendelow's Matrix - Marketing Theories. Mendelow’s Matrix with case studies. Note the graphic differs from others - the high to low of the power axis is reversed. [@MendelowMatrixMarketing2022].
 - Setting Corporate Goals and Measuring Organizational Effectiveness - A Practical Approach. Identifies stakeholders and uses this to explore how these can be integrated into the strategic planning process. [@mendelowSettingCorporateGoals1983].
