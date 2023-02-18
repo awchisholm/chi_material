@@ -5,7 +5,7 @@ if (file.exists('refs.qmd')) {
   file.remove('refs.qmd')
 }
 #bib_file = params$bibliography_file
-ls()
+
 bibdf = suppressMessages(bib2df::bib2df('Chichester.bib'))
 #bibdf = suppressMessages(bib2df::bib2df(bib_file))
 
@@ -18,8 +18,13 @@ texdf =
   dplyr::mutate(item = paste0("\\item ", TITLE, '. ', NOTE, " \\parencite{", BIBTEXKEY, "}.")) %>%
   dplyr::select(item)
 
+# original version - probably not needed any more
+# It used \item and \parencite - Quarto copes with -
 writeLines(texdf$item, 'tex.txt')
 
+# This creates one bullet entry for each item in the bibliography file
+# It uses any notes found to add as text before the in-text citation
+#
 texdf2 <-
   bibdf %>%
   dplyr::select(BIBTEXKEY, NOTE, TITLE) %>%
