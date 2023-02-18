@@ -86,7 +86,7 @@ fix-yahoo-finance==0.0.22
 Flask==1.1.4
 flatbuffers==2.0
 folium==0.8.3
-future==0.16.0
+future>=0.18.3
 gast==0.4.0
 GDAL==2.2.2
 gdown==3.6.4
