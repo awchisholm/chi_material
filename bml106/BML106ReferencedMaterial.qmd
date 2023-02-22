@@ -7,8 +7,6 @@ format: pdf
 keep-tex: false
 editor: visual
 bibliography: Chi106.bib
-params:
-  bibliography_file: Chi106.bib
 ---
 
 <!-- export the bib file from Zotero using Better BibLaTex -->
@@ -37,6 +35,8 @@ In general, if an item is in this list, I will have access to a copy of the sour
 ## Details
 
 {{< include refs.qmd >}}
+
+{{< pagebreak >}}
 
 ### References
 
