@@ -1,0 +1,2 @@
+project:
+  pre-render: bml106/process_bib.R

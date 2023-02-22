@@ -1,0 +1,19 @@
+- THE KNOWLEDGE-BASED ECONOMY. OECD knowledge classification. Introduces the 4 classifications of Know-What, Know-Why, Know-How and Know-Who. [@a1996_the].
+- Definition of Big Data - Gartner Information Technology Glossary. A trusted source of information [@a2012_definition].
+- Post Capitalist Society. Important book that argues that knowledge is the key factor in production in Western countries. Available in the Chichester library as an online version. [@drucker1993post].
+- What Is Big Data: Characteristics, Challenges, Tools \& Use Cases. Overview of the first 5 Vs [@gaur_2020_what].
+- Innovations in London's Transport: Big Data for a Better Customer Ser…. Act on fact slides from TFL [@govneteventsInnovationsLondonTransport15:21:15UTC].
+- Edmond Halley’s Life Table and Its Uses. Early used of data to predict life expectancy for the purposes of selling better insurance (for the insurance provider) [@halleyEdmondHalleyLife2008].
+- The Prosci ADKAR® Model | Prosci. The ADKAR Model. [@incProsciADKARModel2023].
+- The 8-Step Process for Leading Change | Dr. John Kotter. Kotter’s 8 step process for leading change. [@kotter20228StepProcessLeading2022].
+- Kotter's 8-Step Change Model: Implementing Change Powerfully and Successfully. Kotter’s 8 step plan for implementing change [@Kotter8StepChange2023].
+- Business Processes - Attempts to Find a Definition. Process diagram relevance [@lindsayBusinessProcessesAttempts2003].
+- Measurement or Management?: Revisiting the Productivity Paradox of Information Technology. A paper that summarises the productivity paradox and summarises 5 stages of it. [@macdonaldMeasurementManagementRevisiting2000].
+- MA-system Beer Game. online version [@MAsystemBeerGame2023].
+- A Dynamic Theory of Organizational Knowledge Creation. Nonaka’s knowledge management model. [@nonaka1994dynamic].
+- The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation. The spiral of knowledge. Builds on the original Nonaka knowledge management model and adds the spiral to show the ordering. [@nonaka1995knowledge].
+- The Knowledge-Creating Company. Spiral of knowledge with examples [@nonakaKnowledgeCreatingCompany1998].
+- Digital Natives, Digital Immigrants. If you’re over 30, you’re likely to be a Digital Immigrant to the new digital world. The Digital Natives are already here and want to learn but the Immigrants haven’t worked out how to teach. [@prenskyDigitalNativesDigital2001].
+- Productivity Paradox. Adding more IT spend does not necessarily improve productivity. [@ProductivityParadox2022].
+- Total Data Volume Worldwide 2010-2025. Data are big, very big. [@TotalDataVolume2020].
+- An Examination of “Push-Pull” Theory Applied to Process Innovation in Knowledge Work. Zmud’s original push pull article. [@zmudExaminationPushPullTheory1984].
