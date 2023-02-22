@@ -1,19 +1,102 @@
-- THE KNOWLEDGE-BASED ECONOMY. OECD knowledge classification. Introduces the 4 classifications of Know-What, Know-Why, Know-How and Know-Who. [@a1996_the].
-- Definition of Big Data - Gartner Information Technology Glossary. A trusted source of information [@a2012_definition].
-- Post Capitalist Society. Important book that argues that knowledge is the key factor in production in Western countries. Available in the Chichester library as an online version. [@drucker1993post].
-- What Is Big Data: Characteristics, Challenges, Tools \& Use Cases. Overview of the first 5 Vs [@gaur_2020_what].
-- Innovations in London's Transport: Big Data for a Better Customer Ser…. Act on fact slides from TFL [@govneteventsInnovationsLondonTransport15:21:15UTC].
-- Edmond Halley’s Life Table and Its Uses. Early used of data to predict life expectancy for the purposes of selling better insurance (for the insurance provider) [@halleyEdmondHalleyLife2008].
-- The Prosci ADKAR® Model | Prosci. The ADKAR Model. [@incProsciADKARModel2023].
-- The 8-Step Process for Leading Change | Dr. John Kotter. Kotter’s 8 step process for leading change. [@kotter20228StepProcessLeading2022].
-- Kotter's 8-Step Change Model: Implementing Change Powerfully and Successfully. Kotter’s 8 step plan for implementing change [@Kotter8StepChange2023].
-- Business Processes - Attempts to Find a Definition. Process diagram relevance [@lindsayBusinessProcessesAttempts2003].
-- Measurement or Management?: Revisiting the Productivity Paradox of Information Technology. A paper that summarises the productivity paradox and shows 5 stages of it. [@macdonaldMeasurementManagementRevisiting2000].
-- MA-system Beer Game. online version [@MAsystemBeerGame2023].
-- A Dynamic Theory of Organizational Knowledge Creation. Nonaka’s knowledge management model. [@nonaka1994dynamic].
-- The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation. The spiral of knowledge. Builds on the original Nonaka knowledge management model and adds the spiral to show the ordering. [@nonaka1995knowledge].
-- The Knowledge-Creating Company. Spiral of knowledge with examples [@nonakaKnowledgeCreatingCompany1998].
-- Digital Natives, Digital Immigrants. If you’re over 30, you’re likely to be a Digital Immigrant to the new digital world. The Digital Natives are already here and want to learn but the Immigrants haven’t worked out how to teach. [@prenskyDigitalNativesDigital2001].
-- Productivity Paradox. Adding more IT spend does not necessarily improve productivity. [@ProductivityParadox2022].
-- Total Data Volume Worldwide 2010-2025. Data are big, very big. [@TotalDataVolume2020].
-- An Examination of “Push-Pull” Theory Applied to Process Innovation in Knowledge Work. Zmud’s original push pull article. [@zmudExaminationPushPullTheory1984].
+- Introduction to Categorical Data Analysis. Go to page 38 for an example of the chi-squared test being used. [@agrestiIntroductionCategoricalData2007].
+- The Element - Ken Robinson. A book by Ken Robinson containing a quote that's worth finding. If a man expresses himself and no woman hears, is he still wrong? [@anaElementKenRobinson2021].
+- ASA Statement on the Role of Statistics in Data Science | Amstat News. Wordy definition of statistics [@ASAStatementRole2015].
+- ATV, Drone, Elbil, Elsykkel, Rc Helikopter, ATV, Robot, Elatv. A weird website that breaks the rules of good design [@ATVDroneElbil2022].
+- Average Salary UK - a Comprehensive Overview.  [@AverageSalaryUK2021].
+- Create a Stakeholder Analysis with the Mendelow Matrix | Free Template. Mendelow’s Matrix with a downloadable template. [@barberCreateStakeholderAnalysis2021].
+- 4 Types of Data Analytics to Improve Decision-Making. Types of data analytics including prescriptive analytics. [@bekkerTypesDataAnalytics2019].
+- One Small Step for the Web.... Solid - a way of putting users at the centre of their data. It may be too complex a concept for most users to manage. [@berners-leeOneSmallStep2018].
+- Cambridge Analytica: Ethics And Online Manipulation With Decision-Making Process. Exploration of the ethics surrounding Cambridge Analytica [@boldyrevaCambridgeAnalyticaEthics2019].
+- Towards Robust Distributed Systems. The CAP theorem introduced. [@brewerRobustDistributedSystems2000].
+- The Data Science Handbook. Nice overview of the data science process by showing a roadmap (p9). Could be used to structure reports logically. [@cadyDataScienceHandbook2017].
+- Card1999.Lowfi\_.Pdf. Visualisation amplifies cognition [@cardCard1999LowfiPdf1999].
+- CaseStudy : A Leading Online Travel Agency Increases Revenues by 16 Percent with Actionable Analytics. Use of data in the travel industry [@CaseStudyLeadingOnline2015].
+- Choosing-a-Good-Chart-09-1.Pdf. A single graphical summary that might be useful as a starting point. [@Choosingagoodchart091Pdf2009].
+- Choosing the Correct Statistical Test in SAS, Stata, SPSS and R. Detailed guidance on which statistical test to use with R code to help. [@ChoosingCorrectStatistical2021].
+- Graphical Perception and Graphical Methods for Analyzing Scientific Data. Early investigation into basic principles of human graphical perception [@clevelandGraphicalPerceptionGraphical1985].
+- Cloud Data Management Pillars: Data Warehouse, Data Lake, and Data Fabric. A new thing - Data Fabric - a way of stitching data together. [@CloudDataManagement].
+- Cluster Analysis. Definition of clustering [@ClusterAnalysis2022].
+- The Data Science Handbook | Wiley. Overview of data science with 3 physical copies in the library [@DataScienceHandbook2017].
+- Data\_Scientist\_vs\_Data\_Engineer. A graph showing the relative interest between data scientist and data engineer [@DataScientistVs2022].
+- DataShine: Census. Geographical view of various data in the UK. Resolves down to a very detailed view. [@DataShineCensus2022].
+- Data Storytelling: How to Tell a Story with Data. Overview of how to tell a story with data. [@DataStorytellingHow2021].
+- Data Visualization. Visualisation text book created using bookdown with R. Reference to Gestalt techniques. [@DataVisualization].
+- Data Visualization: Basic Principles. Basic principles - an easy overview. [@DataVisualizationBasic2016].
+- Research Challenges and Opportunities in Business Analytics. A historical view to the evolution of analytics terminology. [@delenResearchChallengesOpportunities2018].
+- Margaret Calvert: It's about Knowing Who You Are Designing For. YouTube video about Margaret Calvert and the importance of knowing who you are designing for. [@designindabaMargaretCalvertIt2013].
+- Data Types in Statistics.. Accessible view of data types. [@dongesDataTypesStatistics2018].
+- Everything Should Be Made as Simple as Possible, But Not Simpler – Quote Investigator.  [@EverythingShouldBe2011].
+- (READ-PDF!) Now You See It Simple Visualization Techniques for Quantitative Analysis ZIP. Downloadable copy of Now You See It by Few. A paper copy exists in the library [@fewREADPDFNowYou2014].
+- Selecting the Right Graph for Your Message. A brief article that summarises which graph to choose based on the data you have [@fewSelectingRightGraph2004].
+- Show Me the Numbers. An important book that gives general guidance about which graph to choose. Available as a physical book in the library [@fewShowMeNumbers2012].
+- The Visual Perception of Variation in Data Displays. An important book about visualisation in general. Available in the library as a physical book [@fewVisualPerceptionVariation2016].
+- Mendelow's Stakeholder Matrix - An Overview. 5 minute video showing a worked example of Mendelow’s Matrix in action. [@firstintuitionreadingandthamesvalleyMendelowStakeholderMatrix2016].
+- Fish Identification Through Deep Learning AI Models | Nisqually - Microsoft Case Study. A case study about using AI to identify fish more efficiently [@FishIdentificationDeep2021].
+- Gestalt Principles for Data Visualization: Similarity, Proximity \& Enclosure. Similarity, Proximity \& Enclosure [@GestaltPrinciplesData2022].
+- Growth Marketing Mint.Com From Zero To 1 Million Users.  [@GrowthMarketingMint2017].
+- Data Types in Statistics. Data types in a single picture plus some supporting text. [@guyDataTypesStatistics2019].
+- Six Practices Critical to Creating Value from Data and Analytics [INFOGRAPHIC] |. Strategies adopted by business leaders to create value from data. [@hayesSixPracticesCritical2013].
+- From Data to Viz | Find the Graphic You Need. Fantastic site that guides you a good visualisation and gives code out at the end. See the caveats section for some good tips on how to display your data. [@healyDataVizFind].
+- Statistics Explained. Physical copy available in the library as well as online. Covers statistics in a relatively friendly way. [@hinton2014statistics].
+- How to Choose the Right Chart for Your Data. Starting point for choosing the right chart [@HowChooseRight2022].
+- How We Scaled Data Science to All Sides of Airbnb over 5 Years of Hypergrowth. Use of AI at AirBnB [@HowWeScaled2015].
+- How Much Does Big Data Cost? | LinkedIn. Make sure value is more than cost. [@huygheHowMuchDoes2016].
+- The Importance of Data Visualization. Human brains process visuals 60000 times faster than text. [@ImportanceDataVisualization2022].
+- Ten Guidelines for Effective Data Visualization in Scientific Publications. Ten guidelines for effective visualisations [@kelleherTenGuidelinesEffective2011].
+- Engaging with (Big) Data Visualizations: Factors That Affect Engagement and Resulting New Definitions of Effectiveness. An investigation into the factors that make effective visualisations [@kennedyEngagingBigData2016].
+- The Work That Visualisation Conventions Do. Earlier work by Kennedy that introduces the word “facticity.” Perhaps veracity might be a better word. [@kennedyWorkThatVisualisation2016].
+- Data Visualization: A Successful Design Process.  [@kirkDataVisualizationSuccessful2012].
+- emphK-Means Clustering. Animated view of k-means [@KmeansClustering2022].
+- Storytelling with Data: A Data Visualization Guide for Business Professionals. A practical book giving advice about data visualization. This book is available in the library. [@knaflic2015storytelling].
+- A Survey on Machine Learning-based Performance Improvement of Wireless Networks: PHY, MAC and Network Layer. Taxonomy showing artificial intelligence, machine learning and deep learning in context. [@kulinSurveyMachineLearningbased2020].
+- Universal Principles of Design. Excellent book that includes the Gutenberg visual gravity model (page 119). [@lidwellUniversalPrinciplesDesign2010].
+- London Icon: A History of Harry Beck’s Iconic Tube Map. Interesting history: it nearly didn’t happen. [@LondonIconHistory2017].
+- Machine Learning. Wikipedia introduction to machine learning. [@MachineLearning2022].
+- SUN Cube: A New Stakeholder Management System for the Post-Merger Integration Process. Example use of Mendelow’s Matrix showing power versus interest. Also contains more recent modifications to this by other researchers. [@martirosyanSUNCubeNew2014].
+- Big Data and the Next Wave of InfraStress Problems, Solutions, Opportunities. An early mention of the phrase “Big Data” [@masheyBigDataNext1999].
+- Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing. The vital importance of visualising data to make sure you can see the real differences between data that looks the same from a descriptive statistics point of view (see Anscome’s quartet) [@matejkaSameStatsDifferent2017].
+- Mendeley Reference Manager | Mendeley. An alternative to Zotero [@MendeleyReferenceManager2023].
+- Stakeholder Mapping, Proceedings of the 2nd International Conference on Information Systems, Cambridge, MA (Cited in Scholes, 1998). The original reference for the Mendelow Matrix [@mendelow1991].
+- Mendelow's Matrix - Marketing Theories. Mendelow’s Matrix with case studies. Note the graphic differs from others - the high to low of the power axis is reversed. [@MendelowMatrixMarketing2022].
+- Setting Corporate Goals and Measuring Organizational Effectiveness - A Practical Approach. Identifies stakeholders and uses this to explore how these can be integrated into the strategic planning process. [@mendelowSettingCorporateGoals1983].
+- Principles of Effective Data Visualization.  [@midwayPrinciplesEffectiveData2020].
+- Interactive Mapping for Large, Open Demographic Data Sets Using Familiar Geographical Features. UK 2011 Census data. See datashine.org.uk for an impressive online interactive map. [@obrienInteractiveMappingLarge2016].
+- Overleaf, Online LaTeX Editor.  [@OverleafOnlineLaTeX2022].
+- Data Science for Dummies. Contains a definition of data science (p8). This book is available in the library. [@pierson2021data].
+- Prescriptive versus Predictive Analytics – A Distinction without a Difference? « Machine Learning Times. Prescriptive analytics does not seem to differ from predictive analytics [@PrescriptivePredictiveAnalytics2014].
+- Primary Data \& Secondary Data: Definition \& Example.  [@PrimaryDataSecondary2022].
+- Mendelow's Matrix (Stakeholder Analysis) Explained!. Youtube video (2 mins) explaining how to use Mendelow’s Matrix [@professionalacademyMendelowMatrixStakeholder2021].
+- The Time Efficiency Gain in Sharing and Reuse of Research Data. An attempt at measuring how much time is saved by planning to re-use data. [@pronkTimeEfficiencyGain2019].
+- Quarto. Allows creation of academic quality documents using Markdown with R or Python code. This means code can be run to create a dynamic document. [@Quarto2021].
+- Bad Data Costs the U.S. \$3 Trillion Per Year. A large number that should motivate anyone to address the problem and make data cleaner at source. [@redmanBadDataCosts2016].
+- A Survey of Information Visualization Books. A big survey about data visualisation books useful as a starting point. [@reesSurveyInformationVisualization2019].
+- The Legacy of Gestalt Psychology. The legacy of Gestalt Psychology [@rockLegacyGestaltPsychology1990].
+- The Role of Technology in CRM. How things have evolved. [@RoleTechnologyCRM2019].
+- Visual Variables.  [@rothVisualVariables2017].
+- Sampling (Statistics). Definition of different types of sampling. [@SamplingStatistics2022].
+- Introduction to Data Science. Section 2.1 has a graphic showing the data science process which loosely follows these steps: Ask, Get, Explore, Model, Communicate. [@sarafianIntroductionDataScience2020].
+- The 42 V's of Big Data and Data Science. I marketeer’s dream; someone has found a way to use words beginning with V and match them to some seemingly vital (!) aspect of Big Data. [@says42BigData2017].
+- 6 of My Favorite Case Studies in Data Science.  [@smithMyFavoriteCase2018].
+- Spotify’s “This Is” Playlists: The Ultimate Song Analysis for 50 Mainstream Artists. Spotify uses AI [@SpotifyThisPlaylists2018].
+- Statistics. Good starting point for a description of statistics [@Statistics2022].
+- 8 Steps in the Data Life Cycle | HBS Online. A data life cycle process diagram. Could be used to structure reports. [@StepsDataLife2021].
+- On the Theory of Scales of Measurement. Data types categorized [@stevensTheoryScalesMeasurement1946].
+- What Statistical Test Should I Use?. A graphic showing what statistical test to use for the data you have. [@teamWhatStatisticalTest2021].
+- Exploratory Data Analysis. The seminal work on EDA available in the library. [@tukey1977exploratory].
+- Types of Data Measurement Scales: Nominal, Ordinal, Interval, and Ratio.  [@TypesDataMeasurement2012].
+- Types of Sampling: Sampling Methods with Examples. Graphic showing different sampling techniques. [@TypesSamplingSampling2018].
+- Personal \& Business Car Leasing | LINGsCARS. A hilarious web site that shouldn't work but does [@valentinePersonalBusinessCar2022].
+- Visual Variable.  [@VisualVariable2022].
+- Information Visualization - 3rd Edition.  [@wareInformationVisualization3rd2013].
+- Information Visualization: Perception for Design.  [@wareInformationVisualizationPerception2004].
+- Visual Thinking for Information Design.  [@wareVisualThinkingInformation2021a].
+- What Is Data Science? The Ultimate Guide. An overview of the data science process and application areas where it is used. [@WhatDataScience2022].
+- What Is Prescriptive Analytics? 6 Examples | HBS Online. Some concrete examples of what prescriptive analytics is. [@WhatPrescriptiveAnalytics2021].
+- What Would The Tube Map Would Look Like If It Were Laid out Geographically?. Precise layout might detract from the core message [@WhatWouldTube2011].
+- Why A Picture Is Not Worth A Thousand Words.  [@WhyPictureNot2016].
+- Why a Picture Is Worth a Thousand Words.  [@WhyPictureWorth2011].
+- Why Visual Analytics?.  [@WhyVisualAnalytics2022].
+- Tidy Data.  [@wickhamTidyData2014].
+- What Attributes Guide the Deployment of Visual Attention and How Do They Do It?. How to attract attention with visualisations. [@wolfeWhatAttributesGuide2004].
+- Zotero | Your Personal Research Assistant.  [@ZoteroYourPersonal2022].
+- Ultimate Guide to Statistics for Data Science. Nice overview of stats with Python code to try things. [@zubairUltimateGuideStatistics2022].
