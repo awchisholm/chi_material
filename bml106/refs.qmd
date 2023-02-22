@@ -8,7 +8,7 @@
 - The 8-Step Process for Leading Change | Dr. John Kotter. Kotter’s 8 step process for leading change. [@kotter20228StepProcessLeading2022].
 - Kotter's 8-Step Change Model: Implementing Change Powerfully and Successfully. Kotter’s 8 step plan for implementing change [@Kotter8StepChange2023].
 - Business Processes - Attempts to Find a Definition. Process diagram relevance [@lindsayBusinessProcessesAttempts2003].
-- Measurement or Management?: Revisiting the Productivity Paradox of Information Technology. A paper that summarises the productivity paradox and summarises 5 stages of it. [@macdonaldMeasurementManagementRevisiting2000].
+- Measurement or Management?: Revisiting the Productivity Paradox of Information Technology. A paper that summarises the productivity paradox and shows 5 stages of it. [@macdonaldMeasurementManagementRevisiting2000].
 - MA-system Beer Game. online version [@MAsystemBeerGame2023].
 - A Dynamic Theory of Organizational Knowledge Creation. Nonaka’s knowledge management model. [@nonaka1994dynamic].
 - The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation. The spiral of knowledge. Builds on the original Nonaka knowledge management model and adds the spiral to show the ordering. [@nonaka1995knowledge].
